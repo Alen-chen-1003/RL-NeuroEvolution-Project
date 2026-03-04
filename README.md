@@ -1,6 +1,6 @@
-# RL-NeuroEvolution-Project
+# 《從繼承到創新：協同演化雙通道架構下的強化學習策略融合》 (From Inheritance to Innovation: A Dual-Channel Genetic Algorithm for Deep Reinforcement Learning
 BipedalWalker GA-Distillation and Dual-Channel Fusion experiments
-**《從繼承到創新：協同演化雙通道架構下的強化學習策略融合》 (From Inheritance to Innovation: A Dual-Channel Genetic Algorithm for Deep Reinforcement Learning)**
+
 
 
 ---
