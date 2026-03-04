@@ -1,6 +1,6 @@
 # RL-NeuroEvolution-Project
 BipedalWalker GA-Distillation and Dual-Channel Fusion experiments
-**BipedalWalker ─ 基因演算法蒸餾與雙通道融合研究**
+**《從繼承到創新：協同演化雙通道架構下的強化學習策略融合》 (From Inheritance to Innovation: A Dual-Channel Genetic Algorithm for Deep Reinforcement Learning)**
 
 
 ---
@@ -67,6 +67,7 @@ cd RL-NeuroEvolution-Project
 python3 -m venv venv
 source venv/bin/activate # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+電腦:dgx spark
 ```
 
 
