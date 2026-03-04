@@ -126,5 +126,5 @@ RL-NeuroEvolution-Project/
 ## 👨‍💻 作者
 **陳奕安（Alen Chen）**
 國立中興大學 電機工程學系
-Email: <your-email@example.com>
+Email: <alen.ea.chen@gmail.com>
 © 2025 Alen Chen — 版權所有。
